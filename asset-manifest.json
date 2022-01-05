@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/samuelryc/two-dimension-finger/static/css/main.2716bcec.css",
+    "main.js": "/samuelryc/two-dimension-finger/static/js/main.5b7b42ff.js",
+    "static/js/787.1ffcdfc5.chunk.js": "/samuelryc/two-dimension-finger/static/js/787.1ffcdfc5.chunk.js",
+    "index.html": "/samuelryc/two-dimension-finger/index.html",
+    "main.2716bcec.css.map": "/samuelryc/two-dimension-finger/static/css/main.2716bcec.css.map",
+    "main.5b7b42ff.js.map": "/samuelryc/two-dimension-finger/static/js/main.5b7b42ff.js.map",
+    "787.1ffcdfc5.chunk.js.map": "/samuelryc/two-dimension-finger/static/js/787.1ffcdfc5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2716bcec.css",
+    "static/js/main.5b7b42ff.js"
+  ]
+}
