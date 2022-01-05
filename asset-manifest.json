@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/two-dimension-finger.samuelryc.com/static/css/main.2716bcec.css",
-    "main.js": "/two-dimension-finger.samuelryc.com/static/js/main.8b955481.js",
-    "static/js/787.1ffcdfc5.chunk.js": "/two-dimension-finger.samuelryc.com/static/js/787.1ffcdfc5.chunk.js",
-    "index.html": "/two-dimension-finger.samuelryc.com/index.html",
-    "main.2716bcec.css.map": "/two-dimension-finger.samuelryc.com/static/css/main.2716bcec.css.map",
-    "main.8b955481.js.map": "/two-dimension-finger.samuelryc.com/static/js/main.8b955481.js.map",
-    "787.1ffcdfc5.chunk.js.map": "/two-dimension-finger.samuelryc.com/static/js/787.1ffcdfc5.chunk.js.map"
+    "main.css": "/static/css/main.2716bcec.css",
+    "main.js": "/static/js/main.7e8a6bb3.js",
+    "static/js/787.1ffcdfc5.chunk.js": "/static/js/787.1ffcdfc5.chunk.js",
+    "index.html": "/index.html",
+    "main.2716bcec.css.map": "/static/css/main.2716bcec.css.map",
+    "main.7e8a6bb3.js.map": "/static/js/main.7e8a6bb3.js.map",
+    "787.1ffcdfc5.chunk.js.map": "/static/js/787.1ffcdfc5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2716bcec.css",
-    "static/js/main.8b955481.js"
+    "static/js/main.7e8a6bb3.js"
   ]
 }
