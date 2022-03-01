@@ -65,7 +65,7 @@ function App() {
     <div className="App">
         <button onClick={movePlayer}>move</button>
         <button onClick={changePlayerDirection}>change direction</button>
-        <table className="table">
+        <table className="table" data-testid="table" current-player-position-x={player_position_x} current-player-position-y={player_position_y}>
           <tbody>
             {current_map.map((map_row, column_index) => 
               <tr key={'column-' + column_index}>
